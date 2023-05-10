@@ -1,2 +1,2 @@
 #!/bin/bash
-getwcd
+pwd 0-current_working_directory

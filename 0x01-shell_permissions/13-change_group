@@ -1,0 +1,2 @@
+#!/bin/bash
+chown =1 /root/alx-system_engineering-devops/13-change_group/hello
